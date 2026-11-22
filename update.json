@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3-test",
-  "apkUrl": "https://github.com/behdadbhdad7-cmd/KING-AI-RELEASES/releases/latest/download/KING-AI.apk",
-  "releaseNotes": "این پیام فقط برای آزمایش اعلان بروزرسانی است. لطفاً فعلاً روی دکمه «بروزرسانی» نزن."
+  "versionCode": 0,
+  "versionName": "disabled",
+  "apkUrl": "https://github.com/behdadbhdad7-cmd/KING-AI-CUSTOMER/releases/latest/download/KING-AI-CUSTOMER.apk",
+  "releaseNotes": "فعلاً بروزرسانی جدیدی برای نصب منتشر نشده است."
 }
